@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qqualls.github.io/260-Lincoln-Ave-E-Tenino/sitemap.xml
